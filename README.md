@@ -33,8 +33,8 @@ A modern, fully responsive personal portfolio website showcasing my work as a Se
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/Virgold/virgold-portfolio.git
+cd virgold-portfolio
 ```
 
 Open `index.html` in your browser or deploy to Netlify/Vercel.
