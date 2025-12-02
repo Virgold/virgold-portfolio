@@ -67,8 +67,8 @@ This project is built upon [vCard - Personal Portfolio](https://github.com/codew
 - Email: chuks.ubani0@gmail.com
 - Phone: +234 (81) 0440-7318
 - Location: Remote, Worldwide
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+<!-- - LinkedIn: [Your LinkedIn]
+- GitHub: [Your GitHub] -->
 
 ## License
 
